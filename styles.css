@@ -1,4 +1,36 @@
-h1 {
-  text-align: center;
-  color: red;
+.container {
+  border: 1px solid;
+  color: gray;
+  border-radius: 10px;
+  margin-top: 30px;
+  max-width: 1000px;
+}
+
+.heading {
+  font-size: 28px;
+  margin-top: 20px;
+}
+.sub-title {
+  font-size: 18px;
+}
+.symbol {
+  font-size: 50px;
+}
+.time {
+  font-size: 50px;
+}
+.forecast {
+  font-size: 22px;
+  margin-top: 30px;
+  color: purple;
+}
+hr {
+  color: blueviolet;
+}
+.card {
+  padding: 10px;
+}
+
+form {
+  margin-bottom: 20px;
 }
